@@ -3,6 +3,7 @@
 phone: +375293258941\
 linkedin: https://www.linkedin.com/in/anastasiatrizna/ \
 discord: @nastyatrizna
+
 ***
 I am a QA engineer with two-year work experience. Focused on learning and self-development, teamwork, non-conflict and calm nature, logical thinking, planning.
 
